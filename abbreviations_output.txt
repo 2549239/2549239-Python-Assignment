@@ -1,0 +1,53 @@
+Tree Name	Abbreviation	Sum of Last Two Letters
+Alder	ALD	24
+Crab Apple	CRA	40
+Common Ash	COM	28
+Silver Birch	SIL	40
+Downy Birch	DOW	27
+European Beech	EUR	35
+Box	BOX	23
+Wild Cherry	WIL	40
+Bird Cherry	BIR	40
+Blackthorn	BLA	40
+Wych Elm	WYC	15
+Smooth-leaved Elm	SMO	28
+Common Hawthorn	COM	28
+Midland Hawthorn	MID	34
+Common Hazel	COM	28
+European Hornbeam	EUR	35
+European Holly	EUR	35
+Common Juniper	COM	28
+Small-leaved Lime	SMA	33
+Large-leaved Lime	LAR	40
+Field Maple	FIE	60
+Pedunculate Oak	PED	44
+Sessile Oak	SES	50
+Scots Pine	SCO	28
+Aspen	ASP	23
+Black Poplar	BLA	40
+European Rowan	EUR	35
+Common Whitebeam	COM	28
+Service Tree	SER	50
+Wild Service Tree	WIL	40
+Strawberry Tree	STR	30
+Bay Willow	BAY	32
+Crack Willow	CRA	40
+White Willow	WHI	32
+Almond-leaved Willow	ALM	23
+European Yew	EUR	35
+Alder Buckthorn	ALD	24
+Purging Buckthorn	PUR	35
+Elder	ELD	24
+Common Dogwood	COM	28
+Rock Whitebeam	ROC	28
+Sea-buckthorn	SEA	60
+Spindle	SPI	33
+Sallow	SAL	40
+Grey Willow	GRE	50
+Purple Willow	PUR	35
+Common Osier	COM	28
+Eared Willow	EAR	40
+Guelder Rose	GUE	55
+Wayfaring tree	WAY	32
+Common Privet	COM	28
+Plot's Elm	PLO	35

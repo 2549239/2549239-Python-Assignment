@@ -1,0 +1,104 @@
+Alder
+DER(20) LDE(12) ALD(0)
+Crab Apple
+CRA(0) RAB(5) PLE(5)
+Common Ash
+ASH(0) MON(5) COM(0)
+Silver Birch
+RCH(5) ILV(18) IRC(18) LVE(10) BIR(0) SIL(0) VER(20)
+Downy Birch
+RCH(5) WNY(5) DOW(0) BIR(0) IRC(18) OWN(10)
+European Beech
+URO(18) EAN(5) ECH(5) PEA(38) ROP(23) OPE(11) EUR(0)
+Box
+BOX(0)
+Wild Cherry
+ILD(5) HER(38) WIL(0) CHE(0)
+Bird Cherry
+CHE(0) IRD(5) BIR(0) HER(38)
+Blackthorn
+CKT(9) ORN(5) THO(10) BLA(0) HOR(23) KTH(18) ACK(11) LAC(28)
+Wych Elm
+ELM(0) WYC(0) YCH(5)
+Smooth-leaved Elm
+ELM(0)
+Common Hawthorn
+WTH(18) COM(0) ORN(5) AWT(10) THO(10) HOR(23) HAW(0) MON(5)
+Midland Hawthorn
+WTH(18) AND(5) LAN(28) ORN(5) IDL(12) AWT(10) THO(10) HOR(23) HAW(0) DLA(18) MID(0)
+Common Hazel
+ZEL(20) COM(0) AZE(4) HAZ(0) MON(5)
+European Hornbeam
+RNB(18) URO(18) BEA(38) EAN(5) ORN(18) NBE(11) PEA(38) ROP(23) OPE(11) HOR(0) EAM(5) EUR(0)
+European Holly
+URO(18) EAN(5) HOL(0) PEA(38) ROP(23) OPE(11) EUR(0)
+Common Juniper
+PER(20) COM(0) IPE(11) NIP(28) JUN(0) UNI(18) MON(5)
+Small-leaved Lime
+LIM(0) IME(5)
+Large-leaved Lime
+LIM(0) IME(5)
+Field Maple
+PLE(5) FIE(0) MAP(0) APL(11) ELD(5) IEL(38)
+Pedunculate Oak
+ATE(5) PED(0) DUN(23) NCU(11) CUL(23) ULA(18) OAK(0) UNC(18) EDU(12) LAT(28)
+Sessile Oak
+SIL(28) ILE(5) OAK(0)
+Scots Pine
+COT(23) OTS(5) PIN(0) SCO(0) INE(5)
+Aspen
+PEN(20) ASP(0) SPE(11)
+Black Poplar
+LAR(5) BLA(0) OPL(11) ACK(5) LAC(28)
+European Rowan
+OWA(10) URO(18) EAN(5) PEA(38) ROP(23) OPE(11) ROW(0) WAN(5) EUR(0)
+Common Whitebeam
+TEB(38) COM(0) BEA(38) ITE(18) WHI(0) EAM(5) MON(5) HIT(28)
+Service Tree
+TRE(0) VIC(28) ERV(18) SER(0) RVI(10) ICE(5)
+Wild Service Tree
+TRE(0) WIL(0) ERV(18) VIC(28) ILD(5) SER(0) RVI(10) ICE(5)
+Strawberry Tree
+AWB(10) RAW(28) WBE(11) BER(38) TRE(0) STR(0) TRA(18)
+Bay Willow
+WIL(0) LOW(5) BAY(0)
+Crack Willow
+WIL(0) ACK(5) CRA(0) RAC(28) LOW(5)
+White Willow
+LOW(5) WIL(0) ITE(5) WHI(0) HIT(28)
+Almond-leaved Willow
+LOW(5) WIL(0)
+European Yew
+URO(18) EAN(5) YEW(0) PEA(38) ROP(23) OPE(11) EUR(0)
+Alder Buckthorn
+BUC(0) CKT(9) ORN(5) THO(10) UCK(11) HOR(23) DER(20) LDE(12) KTH(18) ALD(0)
+Purging Buckthorn
+ING(5) GIN(28) BUC(0) CKT(9) ORN(5) THO(10) PUR(0) UCK(11) URG(18) HOR(23) KTH(18) RGI(12)
+Elder
+ELD(0) DER(20) LDE(12)
+Common Dogwood
+COM(0) GWO(10) OGW(12) DOG(0) MON(5)
+Rock Whitebeam
+TEB(38) BEA(38) ITE(18) ROC(0) WHI(0) OCK(5) EAM(5) HIT(28)
+Sea-buckthorn
+
+Spindle
+DLE(5) PIN(28) NDL(12) SPI(0) IND(18)
+Sallow
+LOW(5) SAL(0)
+Grey Willow
+GRE(0) LOW(5) WIL(0) REY(20)
+Purple Willow
+PLE(5) WIL(0) URP(18) PUR(0) RPL(11) LOW(5)
+Common Osier
+IER(20) COM(0) SIE(28) MON(5) OSI(0)
+Eared Willow
+WIL(0) EAR(0) RED(20) ARE(18) LOW(5)
+Guelder Rose
+DER(20) ELD(18) LDE(12) ROS(0) OSE(5) UEL(38) GUE(0)
+Wayfaring tree
+YFA(10) WAY(0) ING(5) TRE(0) RIN(28) FAR(28) ARI(18) AYF(10)
+Common Privet
+IVE(10) VET(20) COM(0) PRI(0) RIV(28) MON(5)
+Plot's Elm
+ELM(0)

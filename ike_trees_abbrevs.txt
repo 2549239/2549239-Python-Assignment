@@ -1,0 +1,104 @@
+Alder
+ALD(0)
+Crab Apple
+CRA(0) APP(0)
+Common Ash
+ASH(0) COM(0)
+Silver Birch
+SIL(0) BIR(0)
+Downy Birch
+DOW(0) BIR(0)
+European Beech
+EUR(0) BEE(0)
+Box
+BOX(0)
+Wild Cherry
+WIL(0) CHE(0)
+Bird Cherry
+BIR(0) CHE(0)
+Blackthorn
+BLA(0)
+Wych Elm
+WYC(0) ELM(0)
+Smooth-leaved Elm
+ELM(0)
+Common Hawthorn
+HAW(0) COM(0)
+Midland Hawthorn
+HAW(0) MID(0)
+Common Hazel
+HAZ(0) COM(0)
+European Hornbeam
+EUR(0) HOR(0)
+European Holly
+EUR(0) HOL(0)
+Common Juniper
+COM(0) JUN(0)
+Small-leaved Lime
+LIM(0)
+Large-leaved Lime
+LIM(0)
+Field Maple
+MAP(0) FIE(0)
+Pedunculate Oak
+OAK(0) PED(0)
+Sessile Oak
+OAK(0) SES(0)
+Scots Pine
+PIN(0) SCO(0)
+Aspen
+ASP(0)
+Black Poplar
+BLA(0) POP(0)
+European Rowan
+ROW(0) EUR(0)
+Common Whitebeam
+WHI(0) COM(0)
+Service Tree
+SER(0) TRE(0)
+Wild Service Tree
+SER(0) TRE(0) WIL(0)
+Strawberry Tree
+TRE(0) STR(0)
+Bay Willow
+BAY(0) WIL(0)
+Crack Willow
+CRA(0) WIL(0)
+White Willow
+WHI(0) WIL(0)
+Almond-leaved Willow
+WIL(0)
+European Yew
+EUR(0) YEW(0)
+Alder Buckthorn
+ALD(0) BUC(0)
+Purging Buckthorn
+PUR(0) BUC(0)
+Elder
+ELD(0)
+Common Dogwood
+COM(0) DOG(0)
+Rock Whitebeam
+ROC(0) WHI(0)
+Sea-buckthorn
+
+Spindle
+SPI(0)
+Sallow
+SAL(0)
+Grey Willow
+GRE(0) WIL(0)
+Purple Willow
+PUR(0) WIL(0)
+Common Osier
+OSI(0) COM(0)
+Eared Willow
+EAR(0) WIL(0)
+Guelder Rose
+ROS(0) GUE(0)
+Wayfaring tree
+TRE(0) WAY(0)
+Common Privet
+COM(0) PRI(0)
+Plot's Elm
+ELM(0)
